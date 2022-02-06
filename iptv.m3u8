@@ -321,36 +321,10 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 #EXTINF:-1 group-title="Sports" ch-number="706" tvg-id="706" tvg-chno="706" tvg-logo="https://playtv.unifi.com.my:7043/CPS/images/universal/film/logo/201907/20190716/20190716071809155j4i.png",FOX Sports HD
 https://web.hypp.tv:443/PLTV/88888888/224/3221227608/3221227608.mpd
 
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="FoxSports2Asia.us" tvg-name="FOX Sport 2" tvg-logo="https://i.ibb.co/NyJNdH0/cgyf.png " group-title="Sports",FOX Sports 2
-https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="FoxSports3Asia.us" tvg-name="FOX Sport 3" tvg-logo="https://i.ibb.co/tsrt8S3/nvc.png" group-title="Sports",FOX Sports 3
-https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="SoccerChannel.id" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_101.png" group-title="Sports",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="DisneyChannelIndonesia.us" tvg-name="Disney Channel" tvg-logo="https://i.ibb.co/D1cGfRm/gcj.png" group-title="Kids",Disney Channel HD
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="DisneyJuniorAsia.us" tvg-name="Disney Junior" tvg-logo="https://i.ibb.co/hghFSVF/CAzX.png" group-title="Kids",Disney Junior
-https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
-
-<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha-->
-<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1-->
-<!--#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="http://kamiselaluada.com/img/disneyxd.png" group-title="Kids",Disney XD-->
-<!--https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_dash_vmx/DisneyXD.mpd-->
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
