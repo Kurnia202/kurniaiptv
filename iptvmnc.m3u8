@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png",RCTI TV 1
-https://d35d0ifx19oopq.cloudfront.net/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
-#EXTINF:-1 group-title="GTV" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png",RCTI TV 2
-https://d322b885qvsbxg.cloudfront.net/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
-#EXTINF:-1 group-title="MNCTV" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png",RCTI VIDIO.COM
-https://d33j155pv2xyba.cloudfront.net/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
+#EXTINF:-1 group-title="MNC" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png",RCTI
+https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
+#EXTINF:-1 group-title="MNC" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png",MNCTV
+https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/index.m3u8
+#EXTINF:-1 group-title="MNC" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png",GTV
+https://rcti-linier.rctiplus.id/live/eds/GTV_2021/live_fta/index.m3u8
