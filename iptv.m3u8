@@ -12,7 +12,7 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="Lokal",INDOSIAR
-https://etslive-2-vidio-com.akamaized.net/exp=1644202327~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=ab9bd69c7f4105bb012162e0cffd3274f8969da704c3478354704d06ef53593d/vp9/205_stream.mpd-p/ingest_8237_720p/index.m3u8447382426597fec40d676a48f176db3ed751/vp9/205_stream.mpd
+https://etslive-2-vidio-com.akamaized.net/exp=1644230449~acl=/vp9/205_stream.mpd!/vp9/205/*~hmac=d4f26d5d9190a9ed8737b5f64b8f4a93fd6477ab90e49880994b2e3618e6d864/vp9/205_stream.mpd593d/vp9/205_stream.mpd-p/ingest_8237_720p/index.m3u8447382426597fec40d676a48f176db3ed751/vp9/205_stream.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
