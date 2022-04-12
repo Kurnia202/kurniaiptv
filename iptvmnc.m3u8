@@ -1,0 +1,18 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-_JNKNyr-OuQ/VFpOysOJEDI/AAAAAAAAGZE/R0g1W_bfxDo/s1600/Logo%2BRCTI.png" group-title="NASIONAL",RCTI+
+http://202.150.161.116:80/RCTI/tracks-v1a1/mono.m3u8?ruangtv.m3u8?bukuantv=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CKhg7wtS/gtv.png" group-title="NASIONAL",GTV+
+https://lnk.ec/GTVplus?ruangtv.m3u8?bukuantv=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3r4RxmbC/inewstv.png" group-title="NASIONAL",iNews+
+https://lnk.ec/INEWSplus?INEWS_2021-avc1_800000=7-mp4a_96000=2.m3u8?bukuantv=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RUsRpBu96cs/XpclBdkGJbI/AAAAAAAALOg/Zzk_1G3L3jgikmsZg6_OUOt5ockuyIQvQCNcBGAsYHQ/s1600/MNCTV%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="NASIONAL",MNCTV+
+http://202.150.161.116:80/MNCTV/tracks-v1a1/mono.m3u8?ruangtv.m3u8?bukuantv
